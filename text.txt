@@ -1,0 +1,2 @@
+<h1>Welcome to Click to eat Search</h1>
+<h5>you can search for the items you wish to find</h5>

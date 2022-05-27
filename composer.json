@@ -1,0 +1,8 @@
+{
+  "require": {
+    "slim/slim": "3.1",
+    "slim/php-view": "^3.1",
+    "twig/twig": "^2.0",
+    "adbario/slim-twig-view": "^1.0"
+  }
+}

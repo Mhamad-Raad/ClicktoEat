@@ -1,0 +1,275 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+img.main{
+  max-height: 375px;
+}
+.square {
+    min-height: 100vh;
+    width: 500px;
+    background-color: #FFEE88;
+    display: block;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+
+}
+.secsquare {
+    width: 390px;
+    min-height: 200px;
+    background-color: #F8AB5B;
+    text-align: center;
+    padding-top: 0px;
+    display: block;
+    margin: 15px auto;
+    padding: 10px;
+    overflow: hidden;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  font-size: 20px;
+  text-align: left;
+  margin-left: 100px;
+}
+
+.lineimp {
+  color: black;
+  width: 300px;
+  margin-left: 100px;
+}
+
+.one {
+  margin-top: -400px;
+  width: 400px;
+  margin-left: 50px;
+}
+
+.l1 {
+  margin-top: -290px;
+  width: 400px;
+  margin-left: 50px;
+}
+
+.two {
+  margin-top: -280px;
+  width: 400px;
+  margin-left: 50px;
+}
+
+.total {
+  margin-top: -130px;
+  width: 400px;
+  margin-left: 50px;
+}
+
+.b1 {
+  width: 160px;
+  height: 140px;
+  margin-left: 170px;
+}
+
+.l2 {
+  margin-top: 30px;
+}
+
+.list {
+  float: left;
+  width: 100%;
+  border-bottom: 1px solid #000000;
+}
+
+.item-image {
+  width: 90px;
+  border-radius: 50%;
+  height: 90px;
+  float: left;
+}
+
+.list-row {
+  padding: 10px;
+  float: left;
+  width: 90%;
+}
+.list-cate {
+  float: left;
+  width: calc(97% / 2 - 1.5%);
+  margin: 1%;
+}
+
+
+.list-row .right {
+  float: right;
+  margin: 2px;
+}
+
+.btn-order,
+.btn2 {
+  text-decoration: none;
+  background-color: #9f6592;
+  padding: 5px 8px;
+  border-radius: 3px;
+  color: #fff;
+  margin-left: 10px;
+}
+
+.btn2 {
+  background-color: #8e8b8e;
+}
+.adminpanel {
+  position: fixed;
+  top: 5px;
+  left: 5px;
+  z-index: 1;
+}
+.admin-btn {
+  display: block;
+  background-color: #bf76c6;
+  padding: 10px;
+  border-radius: 3px;
+  margin: 2px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.category {
+  width: calc(100% / 2 - 20px);
+  height: 130px;
+  display: block;
+  float: left;
+  margin: 19px 10px;
+}
+.category img{
+  margin-bottom: 5px;
+}
+.cate-staff{
+  width: 150px;
+}
+.underline {
+    width: 90%;
+    background-color: #F8AB5B;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid black;
+    position: relative;
+    left: no-repeat;
+    padding: 15px;
+}
+.old-image {
+    margin-top: 5px;
+    width: 90px;
+}
+
+.i {
+    width: 250px;
+    margin-left: 130px;
+}
+
+p {
+    font-size: 17px;
+    text-align: left;
+    margin-left: 30px;
+}
+.b {
+    width: 90px;
+    height: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+    background-color: #F8AB5B
+}
+.categorys {
+    display: block;
+    overflow: hidden;
+    height: 100px;
+    width: auto;
+    overflow-x: auto;
+    margin-top: 10px;
+}
+
+.cate {
+    width: 125px;
+    /* float: left; */
+    padding: 3px;
+    display: table-cell;
+}
+
+.list {
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #000000;
+}
+
+.item-image {
+    width: 90px;
+    border-radius: 50%;
+    height: 90px;
+    float: left;
+}
+
+.list-row {
+    padding: 10px;
+    float: left;
+    width: 75%;
+}
+.fullsize .list-row{
+  width: 95%;
+}
+.list-row .right {
+    float: right;
+    margin: 2px;
+}
+.add {
+    width: 100px;
+    height: 50px;
+
+    margin-left: 150px;
+}
+.btn-home{
+    width: 125px;
+    float: left;
+    height: 125px;
+    margin: 5px;
+}
+.btn-home img{
+    width: auto;
+    height: 100px;
+}
+.staff{
+	width: 150px;
+	height: 40px;
+	background-color: white;
+	text-align: center;
+	cursor: pointer;
+   margin-top: 20px;
+   border-radius:15px;
+}
+.item-image {
+    width: 90px;
+    border-radius: 50%;
+    height: 90px;
+    float: left;
+}
+
+.list-row {
+    padding: 10px;
+    float: left;
+    width: 75%;
+}
+
+.list-row .right {
+    float: right;
+    margin: 2px;
+}
+.mainorder{
+    position: absolute;
+    top: 0px;
+    text-align: center;
+}
+.mainorder form{
+    margin: 25px 10px;
+}

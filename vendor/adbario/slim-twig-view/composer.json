@@ -1,0 +1,23 @@
+{
+    "name": "adbario/slim-twig-view",
+    "description": "Extension for Slim Framework 3 view helper built on top of the Twig 2 templating component",
+    "keywords": ["slim","framework","view","template","twig"],
+    "homepage": "https://github.com/adbario/slim-twig-view",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Riku Särkinen",
+            "email": "riku@adbar.io"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Adbar\\Slim\\Views\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.5",
+        "slim/slim": "~3.0",
+        "slim/twig-view": "^1.0|^2.0"
+    }
+}
